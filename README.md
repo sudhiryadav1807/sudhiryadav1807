@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sudhir Yadav 👋
 
-<!--
-**sudhiryadav1807/sudhiryadav1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Currently learning Python  
+🤖 Aspiring AI Engineer  
+🚀 Learning by building projects  
+📚 Exploring Machine Learning & Generative AI
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git & GitHub
+- Problem Solving
+- SQL
+
+## 🎯 My Goal
+
+To become an AI Engineer by learning,
+building real-world projects, and continuously improving.
+
+## 🚀 Learning Journey
+
+Python → Data → Machine Learning → Deep Learning → Generative AI
+
+## 📌 Projects
+
+Coming soon...
+
+---
+
+⭐ Learning. Building. Improving.
