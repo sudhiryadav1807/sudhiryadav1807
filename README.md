@@ -19,7 +19,7 @@ building real-world projects, and continuously improving.
 
 ## 🚀 Learning Journey
 
-Python → Data → Machine Learning → Deep Learning → Generative AI
+Python → Data Science → Machine Learning → Deep Learning → Generative AI → AI Engineer
 
 ## 📌 Projects
 
