@@ -23,7 +23,7 @@ Python → Data → Machine Learning → Deep Learning → Generative AI
 
 ## 📌 Projects
 
-Coming soon...
+Projects:Guess the Number | Snake Water Gun | More coming soon🔜
 
 ---
 
